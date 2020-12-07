@@ -1,5 +1,7 @@
 # Very Flexible Aircraft Model
 
+Thank you @cessnao3 for initially placing this on github
+
 Matlab model of a simplified Very Flexible Aircraft (VFA) model by Travis E. Gibson, Anuradha Annaswamy, and Eugene Lavretsky.
 
 * "Closed-loop Reference Model adaptive control : with application to very flexible aircraft," http://hdl.handle.net/1721.1/87974
